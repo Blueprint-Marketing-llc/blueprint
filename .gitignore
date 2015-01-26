@@ -11,3 +11,261 @@ wp-content/cache/
 wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+<meta charset="UTF-8" />
+<title>Internet marketing SEO - Blueprint Marketing</title><meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noodp,noydir"/>
+<meta name="description" content="We will turbo-charge your website to bring you more visitors and convert them into customers using inbound marketing SEO Blueprint Marketing"/>
+<link rel="canonical" href="http://www.blueprintmarketing.com" />
+<link rel="publisher" href="https://plus.google.com/+Blueprintmarketingseo/about"/>
+<link rel="author" href="https://plus.google.com/?rel=publisher"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Internet marketing SEO - Blueprint Marketing" />
+<meta property="og:description" content="Blueprint Marketing search engine optimization word press, Internet marketing" />
+<meta property="og:url" content="http://www.blueprintmarketing.com" />
+<meta property="og:site_name" content="Blueprint Marketing" />
+<meta property="article:publisher" content="https://www.facebook.com/blueprintmarketing/" />
+<meta property="fb:admins" content="32901387" />
+<meta property="og:image" content="https://www.facebook.com/photo.php?fbid=260055364115814&amp;set=a.199888403465844.42463.199885066799511&amp;type=1" />
+<meta name="alexaVerifyID" content="GxLclHRoggKeQrd04Lllgd9q7j4" />
+<meta name="msvalidate.01" content="872D3CF6A08F4CA74B6D6101DB58AB75" />
+<script type="application/ld+json">{ "@context": "http://schema.org", "@type": "WebSite", "url": "http://www.blueprintmarketing.com/", "potentialAction": { "@type": "SearchAction", "target": "http://www.blueprintmarketing.com/?s={search_term}", "query-input": "required name=search_term" } }</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Blueprint Marketing &raquo; Feed" href="http://feeds.feedburner.com/blueprintmarketing" />
+<link rel="alternate" type="application/rss+xml" title="Blueprint Marketing &raquo; Comments Feed" href="http://www.blueprintmarketing.com/comments/feed/" />
+<link rel='stylesheet' id='bluepring-marketing-css'  href='http://www.blueprintmarketing.com/wp-content/themes/blueprintmarketing/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mashsb-styles-css'  href='http://www.blueprintmarketing.com/wp-content/plugins/mashsharer/templates/mashsb.min.css' type='text/css' media='all' />
+<style id='mashsb-styles-inline-css' type='text/css'>
+
+        .mashsb-count {
+        color: #cccccc;
+        }
+    .mashsb-buttons a {
+    min-width: 177px;}
+</style>
+<link rel='stylesheet' id='awesome-fonts-css'  href='http://www.blueprintmarketing.com/wp-content/themes/blueprintmarketing/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Cutive%7CPT+Sans%3A400%2C700%22+rel%3D%22stylesheet%22+type%3D%22text%2Fcss%22%3E&#038;ver=4.1' type='text/css' media='all' />
+<!--[if lte IE 7]>
+<link rel='stylesheet' id='theme-ie-only-css'  href='http://www.blueprintmarketing.com/wp-content/themes/blueprintmarketing/css/font-awesome-ie7.css' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='revolution-slider-css'  href='http://www.blueprintmarketing.com/wp-content/themes/blueprintmarketing/css/revolution-slider.css' type='text/css' media='all' />
+<!-- This site uses the Yoast Google Analytics plugin v5.2.8 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-31539604-1', 'auto', {'allowAnchor': true, 'allowLinker': true});
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Yoast Google Analytics -->
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+<script type='text/javascript'>try{jQuery.noConflict();}catch(e){};</script>
+<script type='text/javascript' src='http://www.blueprintmarketing.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://www.blueprintmarketing.com/wp-content/themes/blueprintmarketing/js/revolution-slider.js'></script>
+<link rel="Shortcut Icon" href="http://www.blueprintmarketing.com/wp-content/themes/blueprintmarketing/images/favicon.png" type="image/x-icon" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.blueprintmarketing.com/wp-content/themes/blueprintmarketing/images/apple-touch-icon-144x144-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.blueprintmarketing.com/wp-content/themes/blueprintmarketing/images/apple-touch-icon-114x114-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.blueprintmarketing.com/wp-content/themes/blueprintmarketing/images/apple-touch-icon-72x72-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" href="http://www.blueprintmarketing.com/wp-content/themes/blueprintmarketing/images/apple-touch-icon-precomposed.png" />
+<link rel="pingback" href="http://www.blueprintmarketing.com/xmlrpc.php" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+</script>
+<script type="text/javascript">
+  var _kmq = _kmq || [];
+  var _kmk = _kmk || '338dff47011b632d6eba74e7030450b8f5fc8787';
+  function _kms(u){
+    setTimeout(function(){
+      var d = document, f = d.getElementsByTagName('script')[0],
+      s = d.createElement('script');
+      s.type = 'text/javascript'; s.async = true; s.src = u;
+      f.parentNode.insertBefore(s, f);
+    }, 1);
+  }
+  _kms('//i.kissmetrics.com/i.js');
+  _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+</script>
+<meta property="fb:admins" content="32901387" />
+<script>
+var _prum = [['id', '5390f2f2abe53dd60d7b23c6'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+   
+<script src='//rum.monitis.com/get/jsbenchmark.min.js?id=3537' type='text/javascript' async='async'></script> 
+
+<script>
+    (function(f,b,g){
+        var xo=g.prototype.open,xs=g.prototype.send,c;
+        f.hj=f.hj||function(){(f.hj.q=f.hj.q||[]).push(arguments)};
+        f._hjSettings={hjid:3591, hjsv:1};
+        if(b.addEventListener){b.addEventListener("DOMContentLoaded",function(){f.hj.documentHtml=b.documentElement.outerHTML;c=b.createElement("script");c.async=1;c.src="//static.hotjar.com/c/hotjar-3591.js?sv=1";b.getElementsByTagName("head")[0].appendChild(c);})}
+        if(!f._hjPlayback && b.addEventListener){
+            g.prototype.open=function(l,j,m,h,k){this._u=j;xo.call(this,l,j,m,h,k)};
+            g.prototype.send=function(e){var j=this;function h(){if(j.readyState===4){f.hj("_xhr",j._u,j.status,j.response)}}this.addEventListener("readystatechange",h,false);xs.call(this,e)};
+        }
+    })(window,document,window.XMLHttpRequest);
+</script>
+<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="home blog full-width-content" itemscope="itemscope" itemtype="http://schema.org/WebPage"><div class="site-container"><header class="site-header" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><img src="http://www.blueprintmarketing.com/wp-content/themes/blueprintmarketing/images/logo.png" alt="Blueprint Marketing Logo"></div><aside class="widget-area header-widget-area"><nav class="nav-primary" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-main-nav" class="menu genesis-nav-menu menu-primary"><li id="menu-item-750" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-750"><a href="http://www.blueprintmarketing.com">Home</a></li>
+<li id="menu-item-751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-751"><a href="http://www.blueprintmarketing.com/about-us/">About Us</a></li>
+<li id="menu-item-795" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-795"><a href="http://www.blueprintmarketing.com/blog/">Blog</a></li>
+<li id="menu-item-796" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-796"><a href="#">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-797"><a href="http://www.blueprintmarketing.com/inbound-marketing/">Inbound Marketing</a></li>
+	<li id="menu-item-758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-758"><a href="http://www.blueprintmarketing.com/lead-generation/">Lead Generation</a></li>
+	<li id="menu-item-759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-759"><a href="http://www.blueprintmarketing.com/link-building/">Link Building</a></li>
+	<li id="menu-item-756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-756"><a href="http://www.blueprintmarketing.com/marketing-analytics/">Marketing Analytics</a></li>
+	<li id="menu-item-757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-757"><a href="http://www.blueprintmarketing.com/lead-management/">Lead Management</a></li>
+	<li id="menu-item-755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-755"><a href="http://www.blueprintmarketing.com/hosting/">Hosting</a></li>
+	<li id="menu-item-754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-754"><a href="http://www.blueprintmarketing.com/malware-removal/">Malware Removal</a></li>
+	<li id="menu-item-752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-752"><a href="http://www.blueprintmarketing.com/social-media/">Social Media</a></li>
+	<li id="menu-item-753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-753"><a href="http://www.blueprintmarketing.com/analytics/">Analytics</a></li>
+	<li id="menu-item-760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-760"><a href="http://www.blueprintmarketing.com/search-engine-optimization/">Search Engine Optimization</a></li>
+	<li id="menu-item-761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-761"><a href="http://www.blueprintmarketing.com/website-design-redesign/">Website Design-Redesign</a></li>
+	<li id="menu-item-825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-825"><a href="http://www.blueprintmarketing.com/anycast-dns/">Anycast DNS</a></li>
+</ul>
+</li>
+<li id="menu-item-932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-932"><a href="http://www.blueprintmarketing.com/contact/">Contact Us</a></li>
+</ul></div></nav></aside></div></header><section id="home-slider-wrapper" class="clearfix"><aside class="home-slider clearfix"><div class="homepage-fullwidth-image"><section id="text-19" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><img style="display:block;width:100%;" src="http://www.blueprintmarketing.com/wp-content/uploads/blueprint-analyze-seo.jpg" alt="analyze seo image" />
+<p class="intro-text">Internet Marketing</p></div>
+		</div></section>
+</div></aside></section><div class="site-inner"><div class="wrap"><div class="content-sidebar-wrap"><section id="home-featured-area" class="clearfix"><div class="wrap"><aside class="home-featured-intro widget-area clearfix"><section id="text-7" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><h1>Blueprint Marketing SEO turbocharge your online presence.</h1>
+
+Using cutting edge software, we customize your online marketing strategy to guarantee web sales success. Our toolbox technology gets your website found, converts visitors into customers and measures your online sales performance – all in one package! </div>
+		</div></section>
+</aside><aside class="home-featured-1 widget-area clearfix"><section id="text-8" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><h2>Get Found</h2>
+<p>Our <strong>Search Engine Optimization (SEO)</strong> process ensures your site climbs the Google page rankings. </p>
+<a class="button_link btn_green" href="http://www.blueprintmarketing.com/search-engine-optimization"><span>More Details</span></a></div>
+		</div></section>
+</aside><aside class="home-featured-2 widget-area clearfix"><section id="text-9" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><h2>Convert Visitors</h2>
+<p>With more traffic, our software identifies prospects and helps you to turn them into customers. </p>
+
+<a class="button_link btn_blue" href="http://www.blueprintmarketing.com/inbound-marketing"><span>Find Out More</span></a></div>
+		</div></section>
+</aside><aside class="home-featured-3 widget-area clearfix"><section id="text-10" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><h2>Analyze Performance</h2>
+
+<p>We provide detailed reports on site visitor activity and information on how to capture their interest. </p>
+
+<a class="button_link btn_green" href="http://www.blueprintmarketing.com/analytics"><span>More Details</span></a></div>
+		</div></section>
+</aside></div><!-- end wrap --></section>
+<section id="home-middle" class="clearfix"><div class="wrap"><aside class="home-middle-intro widget-area clearfix"><section id="text-11" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><h2>All-in-One Internet Marketing</h2>
+<span class="green">We provide cutting edge Internet Marketing Services to attract more vistors to your website!</span></div>
+		</div></section>
+</aside><aside class="home-middle-area widget-area clearfix"><section id="featured-post-2" class="widget featuredpost"><div class="widget-wrap"><div class="post-705 page type-page status-publish has-post-thumbnail entry gfwa-1 gfwa-odd"><img width="64" height="64" src="http://www.blueprintmarketing.com/wp-content/uploads/2013/03/features_mail.png" class="alignleft" alt="Social Media Icon" /><h2><a href="http://www.blueprintmarketing.com/social-media/" title="Social Media">Social Media</a></h2><p>Using blogging and social media (like Twitter, Facebook, LinkedIn, Google+) we will have your content disseminated to an ever-increasing audience, channeling more visitors to your website where you can convert them to customers. </p>
+</div><!--end post_class()-->
+
+<div class="post-657 page type-page status-publish has-post-thumbnail entry gfwa-2 gfwa-even"><img width="64" height="64" src="http://www.blueprintmarketing.com/wp-content/uploads/2012/12/features_traffic.png" class="alignleft" alt="Analytics Icon" /><h2><a href="http://www.blueprintmarketing.com/analytics/" title="Analytics">Analytics</a></h2><p>See how all of your Internet marketing channels are performing in terms of visits, leads and customer acquisition with our rich, detailed reporting that will give you the lead over your competitors. </p>
+</div><!--end post_class()-->
+
+<div class="post-487 page type-page status-publish has-post-thumbnail entry gfwa-3 gfwa-odd"><img width="64" height="64" src="http://www.blueprintmarketing.com/wp-content/uploads/2012/08/features_uptime.png" class="alignleft" alt="Hosting" /><h2><a href="http://www.blueprintmarketing.com/hosting/" title="Hosting">Hosting</a></h2><p>We examine your existing hosting services and make recommendations to make sure that your website and email hosting systems are providing you the functionality that your company needs. </p>
+</div><!--end post_class()-->
+
+<div class="post-465 page type-page status-publish has-post-thumbnail entry gfwa-4 gfwa-even"><img width="64" height="64" src="http://www.blueprintmarketing.com/wp-content/uploads/2012/08/features_location.png" class="alignleft" alt="Lead Management Icon" /><h2><a href="http://www.blueprintmarketing.com/lead-management/" title="Lead Management">Lead Management</a></h2><p>We move your website visitors along the sales funnel to drive them from merely passive visitors to sales ready leads. We help you track visitors so that you can provide them with incentives and convert them from visitors to clients. </p>
+</div><!--end post_class()-->
+
+<div class="post-456 page type-page status-publish has-post-thumbnail entry gfwa-5 gfwa-odd"><img width="64" height="64" src="http://www.blueprintmarketing.com/wp-content/uploads/2012/08/features_cpanel.png" class="alignleft" alt="Seo Icon" /><h2><a href="http://www.blueprintmarketing.com/search-engine-optimization/" title="Search Engine Optimization">Search Engine Optimization</a></h2><p>Our SEO services will have you rank higher in search engines for the right keywords and lead to link-building opportunities that will also increase your website&#8217;s search rank. </p>
+</div><!--end post_class()-->
+
+<div class="post-450 page type-page status-publish has-post-thumbnail entry gfwa-6 gfwa-even"><img width="64" height="64" src="http://www.blueprintmarketing.com/wp-content/uploads/2012/08/features_support.png" class="alignleft" alt="Web Design Icon" /><h2><a href="http://www.blueprintmarketing.com/website-design-redesign/" title="Website Design-Redesign">Website Design-Redesign</a></h2><p>We partner with some of the best design teams in the business and can find solutions for any budget.  We make sure that your website is easy to navigate and entices visitors to stay on your site. </p>
+</div><!--end post_class()-->
+
+</div></section>
+</aside><aside class="home-middle-area-3 widget-area clearfix"><section id="text-12" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Partners</h4>
+			<div class="textwidget"><img src="/wp-content/uploads/2013/07/partners.png" alt="Partners Logos"></div>
+		</div></section>
+</aside></div><!-- end wrap --></section><!-- end home-middle -->
+<section id="home-bottom" class="clearfix"><div class="wrap"><aside class="home-bottom  clearfix"><section id="text-13" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><p style="text-align:center;"><a class="button_link btn_red" href="http://www.blueprintmarketing.com/contact"><span>CONTACT US</span></a>  <a class="button_link btn_green" href="http://www.blueprintmarketing.com/inbound-marketing"><span>LEARN MORE</span></a></p>
+
+
+
+<div id="schema_organization" class="schema_block">
+<div itemscope="" itemtype="http://schema.org/Corporation"><p>
+<a class="schema_url" itemprop="url" href="http://www.blueprintmarketing.com"><span class="schema_name" itemprop="name">Blueprint Marketing</span></a><br />
+<span class="schema_description" itemprop="description">We provide cutting edge Internet Marketing Services to attract more visitors to your website!</span></p>
+<p itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+<span class="street" itemprop="streetAddress">300 S. Interlachen Ave</span>,<br />
+<span class="city_state"><span class="locale" itemprop="addressLocality"> Winter Park</span>, <span class="region" itemprop="addressRegion">FL</span>, <span class="postalcode" itemprop="postalCode">32789</span>, <span class="country" itemprop="addressCountry">US</span></span>
+</p>
+<p><span class="email" itemprop="email">contact@blueprintmarketing.com</span><br />
+<span class="phone" itemprop="telephone">Phone: 1 (603) 978-1964</span><br />
+<span class="fax" itemprop="faxNumber">Fax: </span></p></div></div></div>
+		</div></section>
+</aside></div><!-- end .wrap --></section><!-- end #home-bottom -->
+<main class="content" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog"></main></div></div></div><div class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="text-14" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><span class="footer-icons">
+<a href="mailto:contact@blueprintmarketing.com" onclick="__gaTracker('send', 'event', 'mailto', 'contact@blueprintmarketing.com');" ><i class="icon-envelope"></i> Write us an Email</a> |
+
+<a href="//www.blueprintmarketing.com/site-map/">
+<i class="icon-comment"></i>Site Map</a> |
+
+<a href="#">
+<i class="icon-headphones"></i> Support:  1 (603) 978-1964</a>
+</span>
+
+<p>
+<a href="//www.blueprintmarketing.com/site-map/">Site Map</a>
+</p></div>
+		</div></section>
+</div><div class="footer-widgets-2 widget-area"><section id="text-15" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><b>Blueprint Marketing</b><br />
+The Foundation of a profitable website
+</div>
+		</div></section>
+</div></div></div><footer class="site-footer" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div class="wrap"><p>&copy;2015 Copyright All rights reserved - <a href="http://www.blueprintmarketing.com/privacy-policy/">Privacy Policy</a></p></div></footer></div><script type="text/javascript">(function() {var t = document.createElement('script'); t.type = 'text/javascript'; t.async = true;var u = document.location.href;var ti = document.title;var i = "?title=" + encodeURIComponent(ti) + "&url=" + encodeURIComponent(u);t.src =  'https://go.toutapp.com/site/6fjxqxb17h' + i;var st = document.getElementsByTagName('script')[0];st.parentNode.insertBefore(t, st);})();</script>
+
+<script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script>
+<script type="text/javascript">
+    new HelloBar(56083,119892);
+</script>
+
+<script type="text/javascript">
+  var _sf_async_config = { uid: 56465, domain: 'blueprintmareting.com', useCanonical: true };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script><script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script><script type="text/javascript">
+                new HelloBar(1,2);
+              </script>
+              <script type='text/javascript' src='http://www.blueprintmarketing.com/wp-includes/js/tw-sack.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mashsb = {"shares":"8","round_shares":"","animate_shares":"0","share_url":"http:\/\/www.blueprintmarketing.com\/choosing-the-right-wordpress-host\/","title":"The+importance+of+choosing+the+right+wordpress+host","image":"http:\/\/www.blueprintmarketing.com\/wp-content\/uploads\/2013\/03\/moz-roger-wordpress.jpg","desc":"Why where you host WordPress website matters more than you think.\r\nChoosing the right WordPress host\r\nThis explains a couple extra things that you will never see Blueprint Marketing allowing our customers hosting with a $5 month \u2026","hashtag":"@Blueprintmarket","subscribe":"content","subscribe_url":"","activestatus":"1","singular":"0","twitter_popup":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.blueprintmarketing.com/wp-content/plugins/mashsharer/assets/js/mashsb.min.js'></script>
+<script type='text/javascript' src='http://www.blueprintmarketing.com/wp-content/themes/blueprintmarketing/js/scripts.js'></script>
+</body>
+</html>
+
+<!--Cached using Nginx-Helper on 2015-01-25 19:23:25. It took 45 queries executed in 2.118 seconds.-->
+<!--Visit http://wordpress.org/extend/plugins/nginx-helper/faq/ for more details-->
